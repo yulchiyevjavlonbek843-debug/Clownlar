@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Clownlar  sayt</title>
+    </head>
+    <body>
+         <h1>Clowns</h1>
+        <h1> <p>Assalomu alaykum bu clownlar saytiga xush kelibsiz. <br>Bu clownlar qo'rqinchili.ulardan birinchisi qo'rqinchili bo'lmaydi.VA udan oxirgilari esa undan jasurlari bo'ladi. </p> </h1>
+    <img src="./1695361114_1-2 (1).jpg" alt="">
+    <h1>Ism:Harly</h1>
+    <h1>yoshi:32</h1>
+    <h1>Natija:21</h1>
+    <h1>Ma'lumot: harly yoshligida oilasi bilan sirkda ishlar edi.Uning onasi faqat og'liga e'tibor berar edi.Uni onasi Yuzlarini bo'yab masqarabozga aylantirib qo'yar edi. <br>Kunlarda bir kuni U uyida yolg'iz qolgan edi.VA Harly u yaxshi ko'radigan o'yinchog'ini yo'qotib qo'yodi va yig'ab onasiga aysa onasi uni uydan haytab yubordi.O'shondan beri u ko'chalardan niqob kiyib yuradi</h1>
+       <h2><a href="#tanlash"><button>Tanlash</button></a></h2>
+        <link rel="stylesheet" href="./Clownlar sayt.css">
+        <img src="./images.jpg" alt="bu yerda rasm bor edi.">
+        <h1>ism:Pumba</h1>
+        <h1>Yoshi:27</h1>
+        <h1>Natija:37</h1>
+       <h1> <p>Ma'lumot: Pumba semiz bo'lgan maktabda hamma o'rtoqlari uni semiz deb masqara qilib yurishar edi.Pumba bir kuni kechqurun yolg'iz yurgan edi. <br> sirkka adashib kelib qoldi.serkning ichidan masqarabozlar chiqib keldi.U shu sababli Clownga aylanishga majbur bo'ldi.</p> </h1>
+       <h2> <a href="#tanlah"><button>Tanlash</button></a> </h2>
+  <img src="./images (1).jpg" alt="BU yarda rasm bor edi">
+    <h1> Ism: isak</h1>
+    <h1>yosh: 28</h1>
+    <h1>Natija:26</h1>
+    <h2>Ma'lumot:Isak yoshligida oilasi bilan sirkda ishlagan.U masqaraboz bo'lib ishlagan edi onasi esa uni qiynab nonushta qilgizmasedi. <br> U kunlardan biri ochlikdan oilasini tashlab qochdi va oyisi va dadas uni qidirsihdi u esa ko'chalarda hammani qo'qitib yurgan rdi va uni politsachilar ushlab olishdi. Bari bir un qamoqdan ham qochib Clownga aylandi.Endi y kechquru uylarga kirib odamlarni o'ldirmoqchi bolmoqda.</h2>
+    <br>
+    <a href="#Tanlash"> <Button>Tanlash</Button></a>
+    </body>
+</html>
